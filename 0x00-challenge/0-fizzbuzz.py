@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
-    Change the logic of if (i % 3) == 0 and (i % 5) == 0:
+    Change the logic of, if (i % 3) == 0 and (i % 5) == 0:
 """
 import sys
 
